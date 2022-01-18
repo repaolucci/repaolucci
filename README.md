@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rebecca.
-- 👀 I’m interested in software engineering, transportation, and sustainability!
+- 👀 I’m interested in software engineering, transportation, and sustainability.
 - 🌱 I’m currently studying Databases and Software Engineering methods at OSU.
 - 💞️ I’m looking to gain software engineering internship experience.
 - 📫 How to reach me: https://www.linkedin.com/in/rebecca-paolucci/
