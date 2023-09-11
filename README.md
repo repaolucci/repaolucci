@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rebecca.
-- 🌱 I’m currently a CS post-baccalaureate student at OSU.
+- 🌱 I graduated with a Computer Science B.S. in Winter 2023.
 - 💞️ This github profile hosts school projects and other assorted side projects.
 - 📫 How to reach me: https://www.linkedin.com/in/rebecca-paolucci/
 <!---
